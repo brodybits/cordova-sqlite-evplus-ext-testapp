@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.brodybits.TestApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Cordova-sqlite-bootstrap-test</name>
+    <name>cordova-sqlite-evplus-ext-testapp</name>
     <description>
         Cordova sqlite bootstrap test app: template to demonstrate reproducible issues with Cordova sqlite plugin.
     </description>
