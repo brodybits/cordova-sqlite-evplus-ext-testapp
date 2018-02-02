@@ -17,7 +17,8 @@ Template to demonstrate reproducible issues with Cordova sqlite plugin. May be u
 - Bootstrap (3.3.6) - included (MIT license)
 - JQuery (2.2.4) - included (MIT license)
 - `cordova-plugin-dialogs` - specified in `config.xml`
-- TODO: `cordova-sqlite-evplus-ext-free` (0.3.0-pre1) from <https://github.com/brodybits/cordova-sqlite-evplus-ext-free> - added by the following command: `cordova plugin add https://github.com/brodybits/cordova-sqlite-evplus-ext-free#0.3.0-pre1`
+- `cordova-sqlite-evplus-ext-free` (0.3.0-pre1) from <https://github.com/brodybits/cordova-sqlite-evplus-ext-free> - added by the following command:
+  - `cordova plugin add https://github.com/brodybits/cordova-sqlite-evplus-ext-free#0.3.0-pre1`
 
 NOTE: `cordova-plugin-dialogs` was added using the `--save` flag to ensure that this plugin would be automatically installed. It is recommended to use the `--save` flags to add any other plugins rather than adding such plugins to git.
 
